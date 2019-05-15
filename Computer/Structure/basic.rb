@@ -9,7 +9,6 @@ module Computer
     end
 
     MainComponent = Struct.new(:input_unit, :cpu, :output_unit)
-
     # puts Basic.new.define
   end
 end

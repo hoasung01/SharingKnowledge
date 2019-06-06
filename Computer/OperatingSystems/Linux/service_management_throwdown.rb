@@ -2,7 +2,7 @@ module Computer
   module OperatingSystems
     module Linux
       class ServiceManagementThrowdown
-        CATEGORIES = %w(Systemd SystemV Upstart).freeze
+        CATEGORIES = %w(Systemd SystemV(init) Upstart).freeze
       end
     end
   end

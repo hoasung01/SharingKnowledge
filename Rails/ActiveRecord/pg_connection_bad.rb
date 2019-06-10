@@ -32,6 +32,20 @@ module Rails
           end
         MONKEY_PATCH
       end
+
+      def reproduce
+        <<~REPRODUCE.strip
+          p `ActiveModel`.count
+
+          Bundler.with_clean_env do
+            system('brew services stop postgresql')
+            system('brew services start postgresql')
+            sleep 10
+          end
+
+          p `ActiveModel`.count
+        REPRODUCE
+      end
     end
   end
 end

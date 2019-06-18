@@ -1,9 +1,9 @@
-module CryptoCurrency
-  module Libra
+module ProgrammingLanguage
+  module Rust
     class Base
       def reference
         <<~REFERENCE.strip
-          https://libra.org
+          https://www.rust-lang.org/learn
         REFERENCE
       end
     end

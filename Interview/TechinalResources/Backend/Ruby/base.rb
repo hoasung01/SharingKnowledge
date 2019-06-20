@@ -5,7 +5,8 @@ module Interview
         class Base
           REFERENCES_LIST = [
             junior: [
-              'https://rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer'
+              'https://rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer',
+              'https://www.toptal.com/ruby-on-rails/interview-questions'
             ],
             senior: [
               'https://resources.workable.com/senior-ruby-developer-interview-questions'

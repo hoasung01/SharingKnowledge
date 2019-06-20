@@ -19,6 +19,12 @@ module Computer
               https://en.wikipedia.org/wiki/Bash_(Unix_shell)
             REFERENCE
           end
+
+          def cheatshet
+            <<~CHEATSHET
+              https://github.com/Idnan/bash-guide
+            CHEATSHET
+          end
         end
       end
     end

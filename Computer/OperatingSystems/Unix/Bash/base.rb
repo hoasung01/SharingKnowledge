@@ -21,7 +21,7 @@ module Computer
           end
 
           def cheatshet
-            <<~CHEATSHET
+            <<~CHEATSHET.strip
               https://github.com/Idnan/bash-guide
             CHEATSHET
           end

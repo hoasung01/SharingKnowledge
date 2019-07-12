@@ -19,7 +19,7 @@ module Algorithm
           DESCRIBE
         end
 
-        # puts Space.yourself
+        # puts Describe.yourself
       end
     end
   end

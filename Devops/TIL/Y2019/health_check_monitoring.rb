@@ -6,7 +6,9 @@ module Devops
           <<~REFERENCE.strip
             [
               https://medium.com/@tinchorb/health-check-monitoring-55e39715c921,
-              okcomputer, rails gem
+              okcomputer-rails gem,
+              https://github.com/hootsuite/health-checks-api,
+              https://github.com/hootsuite/microservice-graph-explorer
             ]
           REFERENCE
         end

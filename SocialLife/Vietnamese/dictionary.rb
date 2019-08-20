@@ -22,6 +22,6 @@ module SocialLife
       end
     end
 
-    # print Dictionary.new().show
+    print Dictionary.new().show
   end
 end

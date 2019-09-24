@@ -1,7 +1,7 @@
 module Computer
   module OperatingSystems
     module Linux
-      class FilePermission
+      class FilePermission < Base
         PERMISSION_TYPE = {
           0: 'No Permission',
           1: 'Execute',

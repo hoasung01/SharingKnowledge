@@ -5,6 +5,7 @@ module Computer
         def define
           <<~DEFINE.strip
             The missing package manager for macOS (or Linux)
+            https://brew.sh/
           DEFINE
         end
       end

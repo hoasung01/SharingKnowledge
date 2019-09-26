@@ -1,5 +1,5 @@
 module OpenSource
-  class CloudFare
+  class AirBnb
     def reference
       <<~REFERENCE.strip
         https://github.com/cloudflare

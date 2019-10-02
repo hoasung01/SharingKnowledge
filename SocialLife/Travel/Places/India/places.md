@@ -6,8 +6,6 @@
 - [x] Calangute
 - [x] Candolim
 - [x] Palolem
-- [] Tripura
-- [] Latilum
 - [x] Chandigarh
 - [x] Madurai
 - [x] Chennai

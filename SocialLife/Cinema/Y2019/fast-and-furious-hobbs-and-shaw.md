@@ -1,4 +1,3 @@
-
 module SocialLife
   module Cinema
     module Y2019

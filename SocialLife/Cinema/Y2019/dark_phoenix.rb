@@ -1,7 +1,7 @@
 module SocialLife
     module Cinema
       module Y2019
-        class SpidermanFarFromHome
+        class DarkPhoenix
           def info
             director = Director.new('Simon Kinberg')
           end

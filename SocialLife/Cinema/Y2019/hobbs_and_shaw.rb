@@ -1,7 +1,7 @@
 module SocialLife
   module Cinema
     module Y2019
-      class SpidermanFarFromHome
+      class HobbsAndShaw
         def info
           director = Director.new('David Leitch')
         end

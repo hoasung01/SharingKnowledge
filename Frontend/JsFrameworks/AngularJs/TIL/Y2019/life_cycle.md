@@ -1,0 +1,8 @@
+1. ngOnChange()
+2. ngOnInit()
+3. ngDoCheck()
+4. ngAfterContentInit()
+5. ngAfterContentChecked()
+6. ngAfterViewInit()
+7. ngAfterViewChecked()
+8. ngOnDestroy()

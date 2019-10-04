@@ -1,0 +1,1 @@
+[why-it-is-a-bad-idea-to-use-methods-in-the-html-templates-with-angular-2](https://blog.appverse.io/why-it-is-a-bad-idea-to-use-methods-in-the-html-templates-with-angular-2-30d49f0d3b16)

@@ -8,9 +8,9 @@ If more comprehensive documentation exists, link to it here.
 
 Describe the core features of the project (what does it do?) in the form of a bulleted list:
 
- - Feature #1
-  - Feature #2
- - Feature #3
+- Feature #1
+- Feature #2
+- Feature #3
 
 ## Getting Started
 

@@ -6,10 +6,10 @@
 - [x] Đà Nẵng
 - [x] Cần Thơ
 - [x] Quảng Nam
-- [ ] Quảng Ngãi
+- [x] Quảng Ngãi
 - [ ] Quảng Ninh
 - [x] Quảng Trị
-- [ ] Sóc Trăng
+- [x] Sóc Trăng
 - [ ] Sơn La
 - [x] Tây Ninh
 - [ ] Thái Bình
@@ -17,16 +17,16 @@
 - [ ] Thanh Hóa
 - [x] Thừa Thiên Huế
 - [x] Tiền Giang
-- [ ] Trà Vinh
+- [x] Trà Vinh
 - [x] Tuyên Quang
-- [ ] Vĩnh Long
+- [x] Vĩnh Long
 - [ ] Vĩnh Phúc
 - [ ] Yên Bái
 - [x] Phú Yên
 - [ ] Hà Nam
 - [ ] Hà Tĩnh
 - [ ] Hải Dương
-- [ ] Hậu Giang
+- [x] Hậu Giang
 - [ ] Hòa Bình
 - [ ] Hưng Yên
 - [x] Khánh Hòa
@@ -36,13 +36,13 @@
 - [x] Lâm Đồng
 - [ ] Lạng Sơn
 - [x] Lào Cai
-- [ ] Long An
+- [x] Long An
 - [ ] Nam Định
 - [ ] Nghệ An
 - [x] Ninh Bình
 - [x] Ninh Thuận
 - [ ] Phú Thọ
-- [ ] Quảng Bình
+- [x] Quảng Bình
 - [x] An Giang
 - [x] Bà Rịa - Vũng Tàu
 - [ ] Bắc Giang
@@ -51,7 +51,7 @@
 - [ ] Bắc Ninh
 - [x] Bến Tre
 - [x] Bình Định
-- [ ] Bình Dương
+- [x] Bình Dương
 - [ ] Bình Phước
 - [x] Bình Thuận
 - [ ] Cà Mau
@@ -60,6 +60,6 @@
 - [x] Đắk Nông
 - [ ] Điện Biên
 - [x] Đồng Nai
-- [ ] Đồng Tháp
+- [x] Đồng Tháp
 - [x] Gia Lai
 - [x] Hà Giang

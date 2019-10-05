@@ -8,9 +8,9 @@ If more comprehensive documentation exists, link to it here.
 
 Describe the core features of the project (what does it do?) in the form of a bulleted list:
 
-- Feature #1
-- Feature #2
-- Feature #3
+ - Feature #1
+ - Feature #2
+ - Feature #3
 
 ## Getting Started
 
@@ -38,11 +38,10 @@ If desired, you may also provide links to core contributor email addresses.
 
 ## Contributing Guidelines
 
-Include instructions for setting up the development environment, code standards, running tests, and submitting pull requests. Aim to be inclusive and welcoming. It may be useful to link to a seperate CONTRIBUTING.md file. See this example from the Hoodie project as an exemplar: https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md
-
+Include instructions for setting up the development environment, code standards, running tests, and submitting pull requests. Aim to be inclusive and welcoming. It may be useful to link to a seperate CONTRIBUTING.md file. See this example from the [Hoodie project](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md) as an exemplar.
 ## Code of Conduct
 
-Open Source projects should follow a code of conduct. Provide a link to the Code of Conduct for your project. I recommend using the Contributor Covenant: http://contributor-covenant.org/
+Open Source projects should follow a code of conduct. Provide a link to the Code of Conduct for your project. I recommend using the [Contributor Covenant](http://contributor-covenant.org/)
 
 ## License
 
@@ -55,5 +54,4 @@ successors. We intend this dedication to be an overt act of relinquishment in pe
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org/>
-
+For more information, please refer to [http://unlicense.org/](http://unlicense.org/)

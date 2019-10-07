@@ -4,3 +4,5 @@
 ### upstream: thượng nguồn
 ### discrete: rời rạc
 ### compose: hợp thành
+### registry: đăng ký
+### assemble: tập hợp

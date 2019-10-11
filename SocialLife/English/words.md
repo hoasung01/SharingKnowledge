@@ -6,3 +6,4 @@
 ### compose: hợp thành
 ### registry: đăng ký
 ### assemble: tập hợp
+### masterpiece: tuyệt tác

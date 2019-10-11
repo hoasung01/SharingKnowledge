@@ -1,0 +1,1 @@
+[sql-exercises](https://www.w3resource.com/sql-exercises/)

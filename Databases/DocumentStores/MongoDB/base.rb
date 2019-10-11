@@ -1,5 +1,5 @@
 module Databases
-  module DocumenttStores
+  module DocumentStores
     module MongoDB
       class Base
         def reference

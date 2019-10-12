@@ -1,0 +1,1 @@
+[writing fast ruby idiom](https://github.com/hoasung01/fast-ruby)

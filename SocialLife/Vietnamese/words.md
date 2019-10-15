@@ -4,4 +4,4 @@
 ### hằn học: có thái độ bực tức
 ### kệch cỡm: (cách ăn mặc, nói năng) thô, không phù hợp đến mức khó coi, khó nghe
 ### cà khịa: cố ý gây sự để cãi vã, đánh đấm nhau
-
+### hời hợt: sơ qua, qua loa, không đậm đà thắm thiết

@@ -7,3 +7,4 @@
 ### registry: đăng ký
 ### assemble: tập hợp
 ### masterpiece: tuyệt tác
+### subscribe: arrange to receive sth regularly

@@ -8,3 +8,6 @@
 ### assemble: tập hợp
 ### masterpiece: tuyệt tác
 ### subscribe: arrange to receive sth regularly
+### bundler: a person or machine that packages something as or into a bundle
+### so far: cho đến nay
+### until now: cho đến bây giờ

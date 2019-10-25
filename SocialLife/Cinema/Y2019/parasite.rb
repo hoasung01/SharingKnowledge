@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module SocialLife
   module Cinema
     module Y2019
@@ -20,7 +22,7 @@ module SocialLife
           puts "Director: #{info.name}"
           puts '====Reviews:===='
 
-          FILES.each do |key, value|
+          FILES.each do |_key, value|
             read_from("#{current_path}/Parasite/#{value}")
           end
 
@@ -32,7 +34,7 @@ module SocialLife
         private
 
         def current_path
-          File.expand_path("../../Reviews", __FILE__)
+          File.expand_path('../Reviews', __dir__)
         end
 
         def read_from(file_path)
@@ -43,7 +45,7 @@ module SocialLife
           end
         end
       end
-      print Parasite.new().reviews
+      print Parasite.new.reviews
     end
   end
 end

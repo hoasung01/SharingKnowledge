@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module OpenSource
   module Licences
     class GnuLesserGeneralPublicLicenseV21

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Books
   module PracticalRubyForSystemAdministration
     module Chap_01

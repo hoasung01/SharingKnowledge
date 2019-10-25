@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module SoftwareDesign
   module DesignPatterns
     module Behavioral

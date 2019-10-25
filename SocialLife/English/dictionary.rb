@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 module SocialLife
   module English
     class Dictionary
       # TODO: refactor duplicated code with Vietnamese
-      DICTIONARY_FILE = 'words.md'.freeze
+      DICTIONARY_FILE = 'words.md'
 
       def show
         read_from("#{current_path}/#{DICTIONARY_FILE}")
@@ -19,10 +21,10 @@ module SocialLife
       end
 
       def current_path
-        File.expand_path File.dirname(__FILE__)
+        __dir__
       end
     end
 
-    print Dictionary.new().show
+    print Dictionary.new.show
   end
 end

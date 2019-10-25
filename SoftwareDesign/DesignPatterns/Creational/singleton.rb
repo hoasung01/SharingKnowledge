@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module SoftwareDesign
   module DesignPatterns
     module Creational
@@ -5,7 +7,7 @@ module SoftwareDesign
         def definition
           RealWorldAnalogy.new(
             <<~DEFINE.strip
-             a country can have only one officical goverment
+              a country can have only one officical goverment
             DEFINE
           )
         end

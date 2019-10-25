@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Frameworks
   module Rails
     module Tools
@@ -11,7 +13,7 @@ module Frameworks
           'RAILS_BEST_PRACTICES',
           'RUBOCOP',
           'RUBYCRITIC'
-        ]
+        ].freeze
 
         USED_FOR = {
           'TRACEROUTE' => 'route cleaning tool',
@@ -22,7 +24,7 @@ module Frameworks
           'RAILS_BEST_PRACTICES' => 'finding Rails specific code smells',
           'RUBOCOP' => 'reports style violations',
           'RUBYCRITIC' => 'static code analysis tools'
-        }
+        }.freeze
 
         def show
           OptimizationAndCleanup::CHECKLIST.each do |list|

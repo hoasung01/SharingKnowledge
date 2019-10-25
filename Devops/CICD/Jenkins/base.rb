@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Devops
   module CICD
     module Jenkins

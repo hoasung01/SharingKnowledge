@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ProgrammingLanguage
   module LogLevel
     class Describe
@@ -72,7 +74,7 @@ module ProgrammingLanguage
             business errors
           MEANING
         )
-      ]
+      ].freeze
 
       def self.yourself
         INFOS.each do |info|

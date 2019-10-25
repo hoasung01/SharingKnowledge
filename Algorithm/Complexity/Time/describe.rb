@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Algorithm
   module Complexity
     module Time
@@ -9,7 +11,7 @@ module Algorithm
           Factor.new('Chương trình dịch mã nguồn'),
           Factor.new('Tốc độ xử lý của vi xử lý'),
           Factor.new('Bộ dữ liệu đầu vào')
-        ]
+        ].freeze
 
         def self.yourself
           <<~DESCRIBE.strip

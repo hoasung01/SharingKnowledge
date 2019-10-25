@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module CryptoCurrency
   module Libra
     class Base

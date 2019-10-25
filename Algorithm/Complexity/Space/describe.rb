@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Algorithm
   module Complexity
     module Space
@@ -9,7 +11,7 @@ module Algorithm
           Factor.new('Các biến cần lưu thực hiện chương trình'),
           Factor.new('Các cấu trúc dữ liệu cần lưu khi thực hiện chương trình'),
           Factor.new('Thuật toán')
-        ]
+        ].freeze
 
         def self.yourself
           <<~DESCRIBE.strip

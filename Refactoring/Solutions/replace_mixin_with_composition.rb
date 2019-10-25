@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Solutions
   class ReplaceMixinWithComposition
     def usage
@@ -8,8 +10,7 @@ module Solutions
       USAGE
     end
 
-    def apply_for(*code_smells)
-    end
+    def apply_for(*code_smells); end
 
     def reference
       <<~REFERENCE.strip

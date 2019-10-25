@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module SocialLife
   module Military
     module ServiceBranches
@@ -8,7 +10,7 @@ module SocialLife
           marine_corps: 'Thủy quân lục chiến',
           coast_guard: 'Tuần duyên',
           air_force: 'Không quân'
-        }
+        }.freeze
       end
     end
   end

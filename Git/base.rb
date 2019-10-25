@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Git
   class Base
     LIST = [
@@ -5,7 +7,7 @@ module Git
       'https://marklodato.github.io/visual-git-guide/index-en.html',
       'https://agripongit.vincenttunru.com/',
       'https://learngitbranching.js.org/'
-    ]
+    ].freeze
 
     def reference
       LIST

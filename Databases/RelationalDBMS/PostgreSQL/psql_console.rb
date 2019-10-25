@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module RelationalDBMS
   module PostgreSQL
     class PsqlConsole

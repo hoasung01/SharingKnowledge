@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Solutions
   class ParameterObject
     def usage
@@ -6,8 +8,6 @@ module Solutions
       USAGE
     end
 
-    def apply_for(*code_smells)
-    end
+    def apply_for(*code_smells); end
   end
 end
-

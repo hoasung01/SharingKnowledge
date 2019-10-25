@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 module Computer
   module Structure
     class Basic
-      CPU = %w(MEMORY_UNIT CONTROL_UNIT ARITHMETIC_LOGIC_UNIT)
+      CPU = %w[MEMORY_UNIT CONTROL_UNIT ARITHMETIC_LOGIC_UNIT].freeze
 
       def define
         MainComponent.new('INPUT_UNIT', CPU, 'OUPUT_UNIT')

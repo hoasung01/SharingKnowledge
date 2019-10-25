@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Databases
   module DocumentStores
     module MongoDB

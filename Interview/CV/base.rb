@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Interview
   module CV
     class Base

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module SocialLife
   module Cinema
     module Y2019
@@ -5,7 +7,7 @@ module SocialLife
         LINE_NUMBER = 16
 
         FILES = {
-          file_name: 'myself_lession.md',
+          file_name: 'myself_lession.md'
         }.freeze
 
         def info
@@ -17,7 +19,7 @@ module SocialLife
           puts '*' * LINE_NUMBER
           puts "Director: #{info.name}"
           puts '====Reviews:===='
-          FILES.each do |key, value|
+          FILES.each do |_key, value|
             read_from("#{current_path}/Joker/#{value}")
           end
           puts '*' * LINE_NUMBER
@@ -28,7 +30,7 @@ module SocialLife
         private
 
         def current_path
-          File.expand_path("../../Reviews", __FILE__)
+          File.expand_path('../Reviews', __dir__)
         end
 
         def read_from(file_path)
@@ -39,7 +41,7 @@ module SocialLife
           end
         end
       end
-      print Joker.new().reviews
+      print Joker.new.reviews
     end
   end
 end

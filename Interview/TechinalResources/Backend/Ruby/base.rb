@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Interview
   module TechnicalResources
     module Backend
@@ -11,7 +13,7 @@ module Interview
             senior: [
               'https://resources.workable.com/senior-ruby-developer-interview-questions'
             ]
-          ]
+          ].freeze
         end
       end
     end

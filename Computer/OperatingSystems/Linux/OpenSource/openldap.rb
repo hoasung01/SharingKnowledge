@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 module Computer
   module OperatingSystems
     module Linux
       module OpenSource
-         class Openldap
+        class Openldap
           def define
             <<~DEFINE.strip
               The Lightweight Directory Access Protocol, or LDAP,
@@ -11,7 +13,7 @@ module Computer
               https://help.ubuntu.com/lts/serverguide/openldap-server.html
             DEFINE
           end
-        end
+       end
       end
     end
   end

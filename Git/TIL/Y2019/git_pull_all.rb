@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Git
   module TIL
     module Y2019

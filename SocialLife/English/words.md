@@ -11,3 +11,4 @@
 ### bundler: a person or machine that packages something as or into a bundle
 ### so far: cho đến nay
 ### until now: cho đến bây giờ
+### deemed: regard as (coi là)

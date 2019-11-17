@@ -6,3 +6,4 @@
 ### cà khịa: cố ý gây sự để cãi vã, đánh đấm nhau
 ### hời hợt: sơ qua, qua loa, không đậm đà thắm thiết
 ### quan liêu: xa thực tế
+### phắn: rời khỏi, biến đi thật nhanh

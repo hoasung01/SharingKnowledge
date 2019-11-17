@@ -16,7 +16,7 @@
   have many good memories.
 
   In a city, Ngan and Ha Lan stay in their neighbor's house.
-  Dung is brother is law of Ngan, he study not godo but he can sing, he can dance
+  Dung is brother in law of Ngan, he study not godo but he can sing, he can dance
   and his family is rich, he also own motorbike while almost students use bicycle.
 
   When Ha Lan go to Ngan's house to borrow a book in order to study, her meet Dung

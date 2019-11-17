@@ -7,3 +7,4 @@
 ### hời hợt: sơ qua, qua loa, không đậm đà thắm thiết
 ### quan liêu: xa thực tế
 ### phắn: rời khỏi, biến đi thật nhanh
+### tếch: bỏ đi, chuồn khỏi nơi nào do đã quá chán ngán

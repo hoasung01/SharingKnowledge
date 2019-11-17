@@ -1,3 +1,4 @@
-```
-spring stop
+```ruby
+  # solution
+  spring stop
 ```

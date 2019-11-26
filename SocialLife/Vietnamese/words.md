@@ -8,3 +8,4 @@
 ### quan liêu: xa thực tế
 ### phắn: rời khỏi, biến đi thật nhanh
 ### tếch: bỏ đi, chuồn khỏi nơi nào do đã quá chán ngán
+### trừu tượng: khái quát hóa ra trong tư duy từ các thuộc tính, quan hệ của sự vật

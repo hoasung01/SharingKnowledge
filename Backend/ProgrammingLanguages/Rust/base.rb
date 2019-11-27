@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module ProgrammingLanguage
+module ProgrammingLanguages
   module Rust
     class Base
       def reference

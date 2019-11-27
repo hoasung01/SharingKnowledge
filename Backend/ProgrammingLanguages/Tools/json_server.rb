@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module ProgrammingLanguage
+module ProgrammingLanguages
   module Tools
     class JsonServer
       def self.yourself

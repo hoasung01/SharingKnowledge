@@ -1,2 +1,6 @@
 [zhiachong](https://zhiachong.com/)
 [kazenka](https://kazenka.blogspot.com/)
+[codewithoutrules](https://codewithoutrules.com/)
+[vnhacker](https://vnhacker.blogspot.com/)
+[toidicodedao](https://toidicodedao.com/)
+[bloghoctap](http://bloghoctap.com/)

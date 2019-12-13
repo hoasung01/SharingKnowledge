@@ -19,3 +19,9 @@ x = also show processes not attached to a terminal
   # find process running on specific port
   lsof -i TCP:22
 ```
+
+### killing daemon process
+
+```ruby
+  kill -TERM PID
+```

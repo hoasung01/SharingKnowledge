@@ -6,3 +6,5 @@
 [bloghoctap](http://bloghoctap.com/)
 [techotopia](https://www.techotopia.com/index.php/Category:Web_Development)
 [xluffy](https://xluffy.github.io/)
+[codeincomplete](https://codeincomplete.com/)
+[mikeperham](http://www.mikeperham.com/)

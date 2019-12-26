@@ -1,3 +1,6 @@
 [graduateland](https://graduateland.com/)
 [developers.turing](https://developers.turing.com/)
 [hired](https://hired.com/)
+[weworkremotely](https://weworkremotely.com/)
+[workingnomads](https://www.workingnomads.co/)
+[indeed(https://vn.indeed.com/)

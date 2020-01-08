@@ -2,3 +2,5 @@
 [Khanacademy](https://www.khanacademy.org/)
 [hackerearth](https://www.hackerearth.com/)
 [hackerrank](https://www.hackerrank.com/)
+[codewars](https://www.codewars.com/)
+[studytonight](https://www.studytonight.com/)

@@ -8,3 +8,5 @@
 [xluffy](https://xluffy.github.io/)
 [codeincomplete](https://codeincomplete.com/)
 [mikeperham](http://www.mikeperham.com/)
+[sharengay](https://sharengay.com)
+[ehkoo](https://ehkoo.com/)

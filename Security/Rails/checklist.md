@@ -4,3 +4,6 @@
   1. Cross Site Request Forgery (CSRF)
   - [deep dive into CSRF](https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef)
 ```
+
+
+[ruby-on-rails-security-best-practices](https://hixonrails.com/ruby-on-rails-tutorials/ruby-on-rails-security-best-practices/)

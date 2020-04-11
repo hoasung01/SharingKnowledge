@@ -1,1 +1,0 @@
-[sql-queries-for-interview](https://artoftesting.com/sql-queries-for-interview)

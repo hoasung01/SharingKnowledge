@@ -4,7 +4,7 @@ module OpenSource
   class AirBnb
     def reference
       <<~REFERENCE.strip
-        https://github.com/cloudflare
+        https://github.com/airbnb
       REFERENCE
     end
   end

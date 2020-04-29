@@ -8,6 +8,7 @@ GEM
       ast (~> 2.4.0)
     psych (3.1.0)
     rainbow (3.0.0)
+    rake (13.0.1)
     rubocop (0.67.2)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
@@ -23,7 +24,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rake (~> 13.0, >= 13.0.1)
   rubocop (~> 0.67.2)
 
 BUNDLED WITH
-   2.0.2
+   2.1.4

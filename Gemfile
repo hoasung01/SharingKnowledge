@@ -3,3 +3,4 @@
 source 'https://rubygems.org'
 
 gem 'rubocop', '~> 0.67.2', require: false
+gem 'rake', '~> 13.0', '>= 13.0.1'

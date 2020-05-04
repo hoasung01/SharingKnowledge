@@ -24,3 +24,10 @@
     - ROW_NUMBER()
     - RANK()
 ```
+
+```html
+    - LAG(value, offset), which outputs a value from an offset number previous to
+    the current row in the report.
+    - LEAD(value, offset), which outputs a value from a offset number after the current
+    row in the report.
+```

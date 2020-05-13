@@ -1,3 +1,6 @@
 [SystemDesign](https://www.educative.io/courses/grokking-the-system-design-interview)
 [InterviewBit](https://www.interviewbit.com/)
 [system-design-primer](https://github.com/donnemartin/system-design-primer)
+[batnamv](https://medium.com/@batnamv/system-design-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-thi%E1%BA%BFt-k%E1%BA%BF-h%E1%BB%87-th%E1%BB%91ng-218cb6059e2a)
+[software-architecture](http://tutorials.jenkov.com/software-architecture/scalable-architectures.html)
+[system_design](https://github.com/shashank88/system_design)

@@ -12,3 +12,4 @@
 [ehkoo](https://ehkoo.com/)
 [webdevelopmentskills](https://andreasbm.github.io/)
 [katacoda](https://www.katacoda.com/#)
+[septeni-technology](https://labs.septeni-technology.jp/design-2/domain-driven-design/domain-driven-design-cho-moi-nguoi/)

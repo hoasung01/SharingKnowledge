@@ -1,0 +1,1 @@
+[understanding-request-response-lifecycle-in-django](https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/)

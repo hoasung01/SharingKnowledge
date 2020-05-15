@@ -1,0 +1,1 @@
+[sharding_and_replication](https://kipalog.com/posts/NoSQL-DBMS---1000-cau-hoi-vi-sao)

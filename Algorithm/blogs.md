@@ -12,3 +12,8 @@
 [SPOJ](www.spoj.com)
 [Codechef](www.codechef.com)
 [educba](https://www.educba.com/)
+[discrete](http://discrete.gr/complexity/)
+[hiredintech](https://www.hiredintech.com/)
+[Complexity](https://vnoi.info/wiki/translate/topcoder/Computational-Complexity-Section-1)
+[bigocheatsheet](https://bigocheatsheet.io/)
+[BigONotation](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html)

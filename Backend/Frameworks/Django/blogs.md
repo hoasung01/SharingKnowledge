@@ -1,2 +1,3 @@
 [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
 [django-restAPI-react](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
+[djangogirls](https://tutorial.djangogirls.org/en/django_models/)

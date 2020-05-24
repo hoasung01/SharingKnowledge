@@ -11,3 +11,5 @@
 ### trừu tượng: khái quát hóa ra trong tư duy từ các thuộc tính, quan hệ của sự vật
 ### khắm: có mùi thối, không hay ho gì, một từ chửi tục trong dân gian
 ### phù phiếm: viển vông, không có nội dung thiết thực, không có giá trị thực tế
+### nguỵ biện: là việc sử dụng các lập luận một cách sai lầm, không hợp lý, cố ý
+    quy phạm các quy tắc logic trong suy luận.

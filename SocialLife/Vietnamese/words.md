@@ -13,3 +13,4 @@
 ### phù phiếm: viển vông, không có nội dung thiết thực, không có giá trị thực tế
 ### nguỵ biện: là việc sử dụng các lập luận một cách sai lầm, không hợp lý, cố ý
     quy phạm các quy tắc logic trong suy luận.
+### phổ quát: phổ biến một cách rộng khắp, bao trùm tất cả

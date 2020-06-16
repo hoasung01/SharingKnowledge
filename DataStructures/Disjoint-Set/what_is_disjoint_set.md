@@ -13,4 +13,16 @@
     [more info](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
     [vnoi](https://vnoi.info/wiki/algo/data-structures/disjoint-set)
     [techiedelight](https://www.techiedelight.com/disjoint-set-data-structure-union-find-algorithm/)
+    [disjoint-data-strutures](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
+```
+
+```html
+    - Cấu trúc này bao gồm 3 thao tác cơ bản như sau:
+    1. makeSet(): Tạo ra tập hợp các phần tử ban đầu
+    2. findSet(): Là thao tác sẽ thực hiện và trả về phần tử đại diện
+    của tập hợp
+    3. unionSet(u, v): Ghép 1 phần tử vào tập hợp lớn hoặc ghép 2 tập hợp
+    lại với nhau. Nếu 2 phần tử đã cùng tập hợp thì thao tác này sẽ không thực hiện
+
+    - Độ phức tạp: Mỗi thao tác sẽ có chi phí O(N)
 ```

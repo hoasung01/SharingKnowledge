@@ -1,0 +1,1 @@
+[graphql-playground](https://www.npmjs.com/package/graphql-playground)

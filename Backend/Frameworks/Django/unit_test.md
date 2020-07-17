@@ -6,3 +6,7 @@
 
 ###blogs
 [testing-django](https://www.valentinog.com/blog/testing-django/)
+
+
+###mock cheatsheet
+- https://gist.github.com/comalex/b6eaeb3a700fab164467eaae9978c58d

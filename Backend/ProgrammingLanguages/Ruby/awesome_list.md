@@ -1,0 +1,1 @@
+[Squib is a Ruby DSL for prototyping card and board games.](https://squib.rocks/)

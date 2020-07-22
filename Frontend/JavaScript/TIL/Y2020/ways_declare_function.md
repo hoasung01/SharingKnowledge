@@ -67,6 +67,40 @@
   5. generator function
 
   6. one more thing: new Function
+
+  7. immediately-invoked Function Expression (IIFE)
+    // That is saying execute immediately.
+
+    ```javascript
+      (function () {
+        // code here
+      })();
+
+      // defined as arrow function
+      (() => {
+        /* */
+      })()
+    ```
+    - noted: (Alternative syntax using unary operators)
+
+    ```js
+      -(function() {
+        /* */
+      })()
+
+      +(function() {
+        /* */
+      })()
+
+      ~(function() {
+        /* */
+      })()
+
+      !(function() {
+        /* */
+      })()
+    ```
+
 ```
 
 [source](https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/)

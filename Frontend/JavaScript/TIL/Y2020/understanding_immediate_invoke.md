@@ -1,0 +1,1 @@
+[immediate-invoke-function](https://flaviocopes.com/javascript-iife/#:~:text=An%20Immediately%2Dinvoked%20Function%20Expression,way%20to%20isolate%20variables%20declarations)

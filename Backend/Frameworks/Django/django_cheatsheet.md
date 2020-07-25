@@ -24,3 +24,19 @@
   1. {% extends %}
   2. {% block %} {% endblock %}
   3. {% include %}
+
+###exceptions
+  - https://docs.djangoproject.com/en/3.0/ref/exceptions/
+
+###logging levels
+  1. CRITICAL (Problems that crash the application)
+  2. ERROR (Problems that break the current function)
+  3. WARNING (Unexpected or undesirable events)
+  4. INFO (Interesting runtime events. Notice that things are working)
+  5. DEBUG (Detail for debugging in development and diagnosing problems)
+
+###4 basic classes in logging
+  1. Loggers
+  2. Handlers
+  3. Filters
+  4. Formatters

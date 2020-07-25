@@ -5,3 +5,4 @@
 [software-architecture](http://tutorials.jenkov.com/software-architecture/scalable-architectures.html)
 [system_design](https://github.com/shashank88/system_design)
 [microservices](https://microservices.io/)
+[systems-design-for-advanced-beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)

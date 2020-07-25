@@ -1,0 +1,1 @@
+[django-logging-right-way](https://lincolnloop.com/blog/django-logging-right-way/)

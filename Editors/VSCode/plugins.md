@@ -12,3 +12,4 @@
 - GitLens
 - Alignment
 - pylance
+- VSCode Icons

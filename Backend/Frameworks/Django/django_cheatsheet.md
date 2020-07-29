@@ -14,7 +14,6 @@
     `python manage.py runserver 0.0.0.0:8000`
 ```
 
-
 ###modules
   1. `import six`
   - Six: Python 2 and 3 Compatibility Library
@@ -40,3 +39,13 @@
   2. Handlers
   3. Filters
   4. Formatters
+
+###Virtual Environment
+
+```html
+  A virtual environment is a container (directory) that holds a specific version
+  of Python and a set of modules (dependencies), and which does not interfere
+  with the operating system's native Python or other projects on the same computer
+```
+
+

@@ -50,3 +50,11 @@
     Or use pixels for borders—though sometimes em for border is cool too.
     Never—ever—user px for font sizes.
     ```
+
+###CSS Combinator Selectors
+[css_combinators](https://www.w3schools.com/css/css_combinators.asp)
+
+  - `div p` => Selects all <p> elements inside <div> elements
+  - `div > p` => Selects all <p> elements where the parent is a <div> element
+  - `div + p` => Selects all <p> elements that are placed immediately after <div> elements
+  - `p ~ ul` => Selects every <ul> element that are preceded by a <p> element

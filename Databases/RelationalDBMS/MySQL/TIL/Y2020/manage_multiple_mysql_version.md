@@ -41,7 +41,7 @@
    ls /usr/local/Cellar/mysql # => 5.7.10
 
    # Link the current version
-   brew switch mysql 5.7.10
+     5.7.10
    To verify which mysql version you're on at any time.
 
    # Check which version of mysql is currently symlinked

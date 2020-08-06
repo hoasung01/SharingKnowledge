@@ -1,0 +1,1 @@
+[change-mysql-user-password](https://linuxize.com/post/how-to-change-mysql-user-password/)

@@ -100,7 +100,7 @@
         /* */
       })()
     ```
-
+    (does not work with arrow functions)
 ```
 
 [source](https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/)

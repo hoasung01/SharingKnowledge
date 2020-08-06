@@ -1,0 +1,1 @@
+[config_debug_django_docker[(https://medium.com/djangotube/dajngo-docker-compose-with-postgres-and-vs-code-debug-example-4875c6666674)

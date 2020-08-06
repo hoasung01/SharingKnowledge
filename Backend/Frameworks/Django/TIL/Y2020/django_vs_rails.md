@@ -1,0 +1,1 @@
+[django_vs_rails](https://www.sitepoint.com/django-for-the-rails-developer/)

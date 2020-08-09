@@ -70,7 +70,11 @@
 
   7. immediately-invoked Function Expression (IIFE)
     // That is saying execute immediately.
+    - usage:
+      The function becomes a function expression which is immediately executed.
+      The variable within the expression can not be accessed from outside it.
 
+    - syntax:
     ```javascript
       (function () {
         // code here
@@ -81,7 +85,18 @@
         /* */
       })()
     ```
+
+    - sample:
+
+    ```js
+      (function () {
+        var aName = "Barry";
+      })();
+      // Variable aName is not accessible from the outside scope
+      aName // throws "Uncaught ReferenceError: aName is not defined"
+    ```
     - noted: (Alternative syntax using unary operators)
+      (does not work with arrow functions)
 
     ```js
       -(function() {
@@ -100,7 +115,7 @@
         /* */
       })()
     ```
-    (does not work with arrow functions)
+
 ```
 
 [source](https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/)

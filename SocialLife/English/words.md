@@ -15,3 +15,4 @@
 ### portfolio: a set of pieces of creative work collected to be shown to potential customers or employers
 ### merely:chỉ đơn thuần là
 ### pitfalls: cạm bẫy
+### interelated: liên quan đến nhau

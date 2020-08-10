@@ -1,0 +1,1 @@
+![how_sql_execute](../../../../Assets/how_sql_execute.png)

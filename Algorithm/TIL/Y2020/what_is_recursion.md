@@ -20,3 +20,23 @@
   # 3 * 2                 # return from 2nd call
   # 6                     # return from 1st call
 ```
+
+
+```python
+    def fib(n):
+    if n==0:
+        return 1
+    elif n==1:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
+
+    # fib(5)
+    # = fib(4) + fib(3)
+    # = fib(3) + fib(2) + fib(2) + fib(1)
+    # = fib(2) + fib(1) + fib(1) + fib(0) + fib(1) + fib(0) + 1
+    # = fib(1) + fib(0) + 1 + 1 + 1 + 1 + 1 + 1
+    # = 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1
+    # = 8
+```
+

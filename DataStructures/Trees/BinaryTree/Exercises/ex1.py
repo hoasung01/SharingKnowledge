@@ -53,18 +53,27 @@ class Node:
 # root.PrintTree()
 
 root = Node(27)
-root.insert(14)
-root.insert(35)
-root.insert(31)
-root.insert(10)
-root.insert(19)
+# insert value one by one
+# root.insert(14)
+# root.insert(35)
+# root.insert(31)
+# root.insert(10)
+# root.insert(19)
 
-root.PrintTree()
+# root.PrintTree()
+
+# result output
 # 10
 # 14
 # 19
 # 27
 # 31
 # 35
-print(root.search(28))
+# print(root.search(28))
 
+# insert values as an array
+values = [1,5,20,99,45,12,44,41,18,7,11,19,82,87]
+for value in values:
+  root.insert(value)
+
+root.PrintTree()

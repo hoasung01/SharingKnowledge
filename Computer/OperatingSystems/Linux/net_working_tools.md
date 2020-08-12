@@ -1,0 +1,49 @@
+```html
+- ping
+- curl
+- httpie
+- wget
+- tc
+- dig/nslookup
+- whois
+- ssh
+- scp
+- rsync
+- ngrep
+- tcpdump
+- wireshark
+- tshark
+- tcpflow
+- ifconfig
+- route
+- ip
+- arp
+- mitmproxy
+- nmap
+- zenmap
+- pof
+- openvpn
+- wireguard
+- nc
+- socat
+- telnet
+- ftp/sftp
+- netstat/ss/lsof/fuser
+- iptables
+- nftables
+- hping3
+- traceroute/mtr
+- tcptraceroute
+- ethtool
+- iw/iwconfig
+- sysctl
+- openssl
+- stunnel
+- iptraf/nethogs/iftop/ntop
+- ab/nload/iperf
+- python 3 -m http.server
+- ipcalc
+- nsenter
+```
+[source](https://wizardzines.com/networking-tools-poster.pdf)
+

@@ -1,5 +1,7 @@
 [mastering-immediately-invoked-function-expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
+[immediate-invoke-function](https://flaviocopes.com/javascript-iife/#:~:text=An%20Immediately%2Dinvoked%20Function%20Expression,way%20to%20isolate%20variables%20declarations)
+
 ```html
   -> When to Use an IIFE?
   The most common use cases for IIFEs are:

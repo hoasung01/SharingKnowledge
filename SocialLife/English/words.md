@@ -16,3 +16,4 @@
 ### merely:chỉ đơn thuần là
 ### pitfalls: cạm bẫy
 ### interelated: liên quan đến nhau
+### congress: quốc hội

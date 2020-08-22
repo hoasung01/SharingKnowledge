@@ -17,3 +17,4 @@
 ### pitfalls: cạm bẫy
 ### interelated: liên quan đến nhau
 ### congress: quốc hội
+### recap: tóm tắt lại

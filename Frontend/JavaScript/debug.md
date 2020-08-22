@@ -1,0 +1,1 @@
+[debug](https://mariusschulz.com/articles/advanced-javascript-debugging-with-console-table)

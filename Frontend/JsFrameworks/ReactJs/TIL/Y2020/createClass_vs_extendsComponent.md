@@ -1,4 +1,5 @@
 ```js
+// using ES6 classes
 import React from 'react';
 
 const Contacts = React.createClass({

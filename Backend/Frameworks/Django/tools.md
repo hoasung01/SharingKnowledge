@@ -4,3 +4,9 @@
 
 ###Fake8-Cheatsheet
 - # noqa
+
+
+
+###Python code formatter
+
+- https://black.now.sh/

@@ -22,3 +22,13 @@
 
   mysql> status
 ```
+
+```html
+  - List grants for a mysql user
+  mysql> SHOW GRANTS FOR 'root'@'localhost';
+```
+
+```html
+  - Remove/Delete the user from the user table
+  mysql> DROP USER 'bloguser'@'localhost';
+```

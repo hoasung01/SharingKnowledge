@@ -1,0 +1,1 @@
+[django-database-optimization-tips](https://medium.com/better-programming/django-database-optimization-tips-4e11631dbc2c)

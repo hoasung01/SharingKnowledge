@@ -3,3 +3,4 @@
 [sshTunnel](https://www.tynsoe.org/v2/stm/documentation/)
 [surge-deploy-static-fast]](https://surge.sh/)
 [deploy-static-page](https://www.netlify.com/pricing/)
+[load testing tool](https://locust.io/)

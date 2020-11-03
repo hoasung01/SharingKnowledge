@@ -13,3 +13,10 @@ document.addEventListener('click', function(e) {
     'screen: ' + e.screenX + ',' + e.screenY)
 }, false);
 ```
+
+```html
+client: { x: evt.clientX, y: evt.clientY }, // relative to the viewport
+screen: { x: evt.screenX, y: evt.screenY }, // relative to the physical screen
+offset: { x: offsetX,     y: offsetY },     // relative to the event target
+page:   { x: pageX,       y: pageY }        // relative to the html document
+```

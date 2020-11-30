@@ -15,3 +15,4 @@
     quy phạm các quy tắc logic trong suy luận.
 ### phổ quát: phổ biến một cách rộng khắp, bao trùm tất cả
 ### vả: bấy giờ
+### khả tín: có thể tin là thật

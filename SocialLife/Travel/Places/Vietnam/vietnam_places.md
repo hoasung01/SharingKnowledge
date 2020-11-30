@@ -32,7 +32,7 @@
 - [x] Khánh Hòa
 - [x] Kiên Giang
 - [x] Kon Tum
-- [ ] Lai Châu
+- [x] Lai Châu
 - [x] Lâm Đồng
 - [ ] Lạng Sơn
 - [x] Lào Cai

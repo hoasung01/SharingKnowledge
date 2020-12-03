@@ -18,3 +18,5 @@
 ### interelated: liên quan đến nhau
 ### congress: quốc hội
 ### recap: tóm tắt lại
+### overwhelm: ngập, tràn
+### comment out:  means to use comment syntax to remove something from the parsed code

@@ -17,3 +17,10 @@ module Computer
     end
   end
 end
+
+# Host dev-worker-1
+#   HostName 54.173.109.173
+#   User ec2-user
+#   IdentityFile ~/.ssh/dev.pem
+#   IdentitiesOnly yes
+#   StrictHostKeyChecking no

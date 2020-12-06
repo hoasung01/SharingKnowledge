@@ -1,0 +1,1 @@
+[migrations](https://blog.theodo.com/2020/05/django-migrations-without-losing-data/)

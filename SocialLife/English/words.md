@@ -20,3 +20,7 @@
 ### recap: tóm tắt lại
 ### overwhelm: ngập, tràn
 ### comment out:  means to use comment syntax to remove something from the parsed code
+### ad-hoc: các phương pháp tạm thời
+### poker face: khuôn mặt giả tạo che giấu cảm xúc thật bên trong
+### latency: độ trễ
+### deprecated: không dùng nữa

@@ -1,0 +1,1 @@
+[migrate_data](https://simpleisbetterthancomplex.com/tutorial/2017/09/26/how-to-create-django-data-migrations.html)

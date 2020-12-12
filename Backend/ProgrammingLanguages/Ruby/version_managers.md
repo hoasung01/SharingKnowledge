@@ -1,0 +1,4 @@
+- RVM (https://rvm.io/)
+- rbenv (https://github.com/rbenv/rbenv)
+- chruby (https://github.com/postmodern/chruby)
+- ry (https://github.com/jneen/ry)

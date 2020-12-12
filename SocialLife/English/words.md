@@ -24,3 +24,4 @@
 ### poker face: khuôn mặt giả tạo che giấu cảm xúc thật bên trong
 ### latency: độ trễ
 ### deprecated: không dùng nữa
+### overlap: chồng lên nhau

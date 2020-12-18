@@ -4,3 +4,4 @@
 [The world’s fastest framework for building websites](https://gohugo.io/)
 [generated_gitignore](https://www.toptal.com/developers/gitignore)
 [push.techulus](https://push.techulus.com/)
+[cloudfare_pages](https://pages.cloudflare.com/)

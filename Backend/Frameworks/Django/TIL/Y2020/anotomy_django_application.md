@@ -1,0 +1,1 @@
+[anatomy-of-an-application](https://www.mattlayman.com/understand-django/anatomy-of-an-application/)

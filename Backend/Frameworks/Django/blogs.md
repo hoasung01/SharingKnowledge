@@ -3,3 +3,4 @@
 [djangogirls](https://tutorial.djangogirls.org/en/django_models/)
 [sodocumentation](https://sodocumentation.net/django/topic/7490/views)
 [riptutorial](https://riptutorial.com/django/example/4565/advanced-queries-with-q-objects)
+[djangobook](https://djangobook.com/)

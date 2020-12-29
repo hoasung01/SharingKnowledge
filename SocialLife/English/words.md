@@ -25,3 +25,5 @@
 ### latency: độ trễ
 ### deprecated: không dùng nữa
 ### overlap: chồng lên nhau
+### until then: cho đến lúc đó
+### constantly: liên tục

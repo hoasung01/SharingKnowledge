@@ -5,3 +5,4 @@
 [generated_gitignore](https://www.toptal.com/developers/gitignore)
 [push.techulus](https://push.techulus.com/)
 [cloudfare_pages](https://pages.cloudflare.com/)
+[upptime](https://upptime.js.org/)

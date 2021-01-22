@@ -16,3 +16,5 @@
 ### phổ quát: phổ biến một cách rộng khắp, bao trùm tất cả
 ### vả: bấy giờ
 ### khả tín: có thể tin là thật
+### nhân quả: cause and effect
+### duyên: cause and condition (https://flownes.com/hieu-duyen-la-gi/)

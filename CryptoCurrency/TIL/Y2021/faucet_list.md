@@ -1,0 +1,1 @@
+- https://blockchair.com/awesome/faucets

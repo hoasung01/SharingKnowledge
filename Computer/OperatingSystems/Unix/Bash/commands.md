@@ -25,3 +25,9 @@ x = also show processes not attached to a terminal
 ```ruby
   kill -TERM PID
 ```
+
+### find ip address
+```ruby
+ipconfig getifaddr en0
+```
+

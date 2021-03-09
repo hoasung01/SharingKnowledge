@@ -7,3 +7,4 @@
 [cloudfare_pages](https://pages.cloudflare.com/)
 [upptime](https://upptime.js.org/)
 [awesome-cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
+[free-for.dev](https://free-for.dev/)

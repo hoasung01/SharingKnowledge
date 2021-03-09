@@ -1,4 +1,5 @@
-https://www.wearefine.com/news/insights/env-branching-with-git/
+[env-branching-with-git](https://www.wearefine.com/news/insights/env-branching-with-git/)
+[a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ```html
   -​1​ Overall branching model and main branches

@@ -1,0 +1,1 @@
+[src](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)

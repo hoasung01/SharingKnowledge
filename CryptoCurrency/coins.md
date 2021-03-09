@@ -1,0 +1,4 @@
+- LTC
+- TRX
+- BTT
+- ADA

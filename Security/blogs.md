@@ -1,0 +1,1 @@
+[bug bounty beginner](https://sectigostore.com/blog/bug-bounty-training-for-beginners-how-to-become-a-bug-bounty-hunter/)

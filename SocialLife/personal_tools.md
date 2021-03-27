@@ -5,7 +5,9 @@
 [zlib](https://z-lib.org/)
 [privacy](https://privacy.com/)
 [temp email](https://www.emailondeck.com/)
+[generate email](https://getnada.com/)
 [trashmail](https://trashmail.com/?lang=en)
+[fbdown private video](https://fbdown.net/)
 
 ###Tricks to create multiples email with same account
 ex: abcdefgh@gmail.com

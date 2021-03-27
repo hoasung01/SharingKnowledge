@@ -1,0 +1,1 @@
+https://github.com/zauberware/rails-devise-graphql

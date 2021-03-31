@@ -38,3 +38,11 @@
       sampleFunctionB();
   })
 ```
+
+```js
+    // Shallow copy
+    var newObject = jQuery.extend({}, oldObject);
+
+    // Deep copy
+    var newObject = jQuery.extend(true, {}, oldObject);
+```

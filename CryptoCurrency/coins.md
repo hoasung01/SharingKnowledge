@@ -2,3 +2,6 @@
 - TRX
 - BTT
 - ADA
+- REEF
+- CRV
+- PEAK

@@ -1,0 +1,3 @@
+```html
+Cám ơn anh/chị đã cung cấp thông tin ạ. Theo kết quả tra soát: Giao dich chủ thẻ yêu cầu tra soát đã được thanh quyết toán ngày 08/04/2021. Có nghĩa là Vpbank đã cắt tiền chuyển trả cho ngân hàng thanh toán của Đơn vị chấp nhận thẻ . Nếu Đơn vị chấp nhận thẻ chưa nhân được thanh toán trên thì họ cần kiểm tra lại với ngân hàng thanh toán của họ. Anh/chi vui lòng in sao kê đến thời điểm hiện tại và cung cấp thông tin cho ngân hàng thanh toán ạ.
+```

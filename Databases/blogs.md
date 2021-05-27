@@ -6,3 +6,4 @@
 [use-the-index-luke](https://use-the-index-luke.com/)
 [sql-exercises](https://www.w3resource.com/sql-exercises/)
 [w3schools-sql-exercises](https://www.w3schools.com/sql/exercise.asp)
+[sql-for-data-analysis](https://hakibenita.com/sql-for-data-analysis)

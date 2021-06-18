@@ -14,3 +14,5 @@ module SoftwareDesign
     end
   end
 end
+
+# A Class should be Open for Extension but Closed for Modification.

@@ -17,3 +17,6 @@ module SoftwareDesign
     end
   end
 end
+
+
+# A Class should depend on Abstraction, not Implementation

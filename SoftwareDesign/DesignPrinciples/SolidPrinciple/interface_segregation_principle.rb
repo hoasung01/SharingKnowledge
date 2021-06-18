@@ -15,3 +15,6 @@ module SoftwareDesign
     end
   end
 end
+
+
+# Small Interface is better than Big Interface.

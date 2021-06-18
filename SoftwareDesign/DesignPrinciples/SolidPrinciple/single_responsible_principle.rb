@@ -16,3 +16,5 @@ module SoftwareDesign
     end
   end
 end
+
+# A Class should only have 1 purpose.

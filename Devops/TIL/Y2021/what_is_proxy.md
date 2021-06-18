@@ -28,3 +28,9 @@ requests to those web servers
       User side     |    Server side
 client <-> proxy  <---> reverse_proxy <-> real server
 ```
+
+
+```html
+- proxy use to isolate user from the internet
+- reverse-proxy use to isolate server from the internet
+```

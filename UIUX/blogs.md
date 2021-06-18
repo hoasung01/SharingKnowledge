@@ -1,0 +1,1 @@
+[lawofux](https://lawsofux.com/)

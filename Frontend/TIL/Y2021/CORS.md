@@ -1,0 +1,1 @@
+[CORS](https://codeaholicguy.com/2018/05/07/cors-la-gi/)

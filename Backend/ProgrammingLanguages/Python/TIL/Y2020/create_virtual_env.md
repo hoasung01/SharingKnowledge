@@ -7,6 +7,10 @@ $ pyenv virtualenv 3.6.8 myproject
 
 - activate
 ```python
-$ pyenv local myproject
+$ pyenv activate myproject
 ```
 
+- install python version
+```python
+$ pyenv install 3.9.0
+```

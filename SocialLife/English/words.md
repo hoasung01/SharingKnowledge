@@ -27,3 +27,4 @@
 ### overlap: chồng lên nhau
 ### until then: cho đến lúc đó
 ### constantly: liên tục
+### metaphor: phép ẩn dụ

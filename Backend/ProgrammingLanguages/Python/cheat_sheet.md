@@ -1,3 +1,5 @@
+[pythonsheet](https://www.pythonsheets.com/notes/python-typing.html)
+
 ###show list methods of a object
 
 ```python

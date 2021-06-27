@@ -1,0 +1,7 @@
+-step1: requirements clarifications
+-step2: back-of-the-evelope estimation
+-step3: system interface definition
+-step4: defining data model
+-step5: high-level design
+-step6: detailed design
+-step7: identifying and resolving bottlenecks

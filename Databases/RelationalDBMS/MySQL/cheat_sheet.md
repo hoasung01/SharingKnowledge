@@ -18,6 +18,11 @@ $ mysql -uroot -p
 ```
 
 ```html
+- remove database
+mysql > DROP DATABASE testdb;
+```
+
+```html
   - show users:
 
   mysql> select host, user  from mysql.user;

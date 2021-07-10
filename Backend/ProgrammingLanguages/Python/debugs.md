@@ -9,3 +9,11 @@
 >>> dir(object)
 >>> object.__dict__
 ```
+
+
+```html
+###using in django app
+python3 manage.py shell_plus
+
+# it imports all models for you
+```

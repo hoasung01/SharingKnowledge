@@ -26,3 +26,5 @@
 - the only way to go fast is to go well
 - slow and steady wins the race
 - to be professional/craftsman -> must not rush -> keep your code clean
+
+###Use the same tools in the team
